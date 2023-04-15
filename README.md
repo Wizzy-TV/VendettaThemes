@@ -4,3 +4,10 @@ You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) install
 
 ## Install theme
 Copy the raw link for the desired theme and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
+
+## OneColor
+Raw link:
+https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OneColor/onecolor.json
+
+### Preview:
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OneColor/screenshot.png)
