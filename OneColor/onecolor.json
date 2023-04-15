@@ -1,0 +1,127 @@
+{
+    "name": "OneColor",
+    "description": "A cool theme based on One Color.",
+    "authors": [
+        {
+            "name": "Wizzy#0211",
+            "id": "715443625580036128"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#95d2b0"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#95d2b0"
+        ],
+        "TEXT_LINK": [
+            "#95d2b0"
+        ],
+        "TEXT_DANGER": [
+            "#95d2b0"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#95d2b0"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#1a1c1b"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#1a1c1b"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1a1c1b"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#999999"
+        ],
+        "TEXT_LINK": [
+            "#95d2b0"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#1a1c1b"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#95d2b0",
+        "PRIMARY_500": "#95d2b0",
+        "PRIMARY_600": "#1a1c1b",
+        "PRIMARY_630": "#1a1c1b",
+        "PRIMARY_660": "#1a1c1b",
+        "PRIMARY_700": "#1a1c1b",
+        "PRIMARY_800": "#1a1c1b",
+        "BRAND_260": "#95d2b0",
+        "BRAND_360": "#95d2b0",
+        "BRAND_500": "#95d2b0",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#95d2b0",
+        "YELLOW_300": "#95d2b0",
+        "ORANGE_345": "#95d2b0",
+        "GREEN_345": "#95d2b0",
+        "GREEN_360": "#95d2b0",
+        "RED_560" : "#95d2b0",
+        "RED_400": "#95d2b0"
+    },
+    "spec": 2
+}
