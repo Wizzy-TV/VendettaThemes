@@ -5,7 +5,7 @@ You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) install
 ## Install theme
 Copy the raw link for the desired theme and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
 
-## OneColor
+## Orange Mountains
 Raw link:
 https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/orangemountains.json
 
