@@ -11,3 +11,11 @@ https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OneColor/onecolor
 
 ### Preview:
 ![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OneColor/screenshot.png)
+
+## Orange Mountains
+Raw link:
+https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/orangemountains.json
+
+### Preview:
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/screenshot.png)
+
