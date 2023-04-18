@@ -36,46 +36,46 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
             "#ed6a19"
         ],
         "BACKGROUND_FLOATING": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#e6ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#181818"
+            "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#181818"
+            "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -84,7 +84,7 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#181818"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
@@ -102,11 +102,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#ed6a19",
         "PRIMARY_500": "#ed6a19",
-        "PRIMARY_600": "#181818",
-        "PRIMARY_630": "#181818",
-        "PRIMARY_660": "#181818",
-        "PRIMARY_700": "#181818",
-        "PRIMARY_800": "#181818",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
         "BRAND_260": "#ed6a19",
         "BRAND_360": "#ed6a19",
         "BRAND_500": "#ed6a19",
@@ -125,7 +125,7 @@
         "blur": 0.8,
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/wallpaper.jpg",
         "alpha": 0.25,
-        "color": "#181818"
+        "color": "#000000"
     }
 }
 
