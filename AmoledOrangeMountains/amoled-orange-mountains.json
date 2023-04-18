@@ -1,5 +1,5 @@
 {
-    "name": "Orange Mountains",
+    "name": "Amoled Orange Mountains",
     "description": "A simple theme for Vendetta with an image of orange mountains. DARK MODE REQUIRED!",
     "authors": [
         {
@@ -122,9 +122,9 @@
     },
     "spec": 2,
     "background": {
-        "blur": 0.6,
+        "blur": 0.8,
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/wallpaper.jpg",
-        "alpha": 0.5,
+        "alpha": 0.25,
         "color": "#181818"
     }
 }
