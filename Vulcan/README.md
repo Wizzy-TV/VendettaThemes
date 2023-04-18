@@ -13,6 +13,6 @@ https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/Vulcan/vulcan.jso
 Dark:
 ![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/Vulcan/screenshot-dark.png)
 Light:
-![](https://github.com/Wizzy-TV/VendettaThemes/blob/main/Vulcan/screenshot-light.png)
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/Vulcan/screenshot-light.png)
 
 
