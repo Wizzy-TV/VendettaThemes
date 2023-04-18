@@ -19,3 +19,10 @@ https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/o
 ### Preview:
 ![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/screenshot.png)
 
+## Amoled Orange Mountains
+Raw link:
+https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/AmoledOrangeMountains/amoled-orange-mountains.json
+
+### Preview:
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/AmoledOrangeMountains/screenshot.png)
+
