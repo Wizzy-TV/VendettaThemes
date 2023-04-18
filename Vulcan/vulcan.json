@@ -36,46 +36,46 @@
             "#95d2b0"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_ACCENT": [
             "#95d2b0"
         ],
         "BACKGROUND_FLOATING": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_MENTIONED": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#95d2b0"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -84,7 +84,7 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#1a1c1b"
+            "#1f1f1f"
         ],
         "CHANNELS_DEFAULT": [
             "#999999"
@@ -96,7 +96,7 @@
             "#ffffff"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1a1c1b"
+            "#1f1f1f"
         ]
     },
     "rawColors": {
@@ -105,11 +105,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#95d2b0",
         "PRIMARY_500": "#95d2b0",
-        "PRIMARY_600": "#1a1c1b",
-        "PRIMARY_630": "#1a1c1b",
-        "PRIMARY_660": "#1a1c1b",
-        "PRIMARY_700": "#1a1c1b",
-        "PRIMARY_800": "#1a1c1b",
+        "PRIMARY_600": "#1f1f1f",
+        "PRIMARY_630": "#1f1f1f",
+        "PRIMARY_660": "#1f1f1f",
+        "PRIMARY_700": "#1f1f1f",
+        "PRIMARY_800": "#1f1f1f",
         "BRAND_260": "#95d2b0",
         "BRAND_360": "#95d2b0",
         "BRAND_500": "#95d2b0",
