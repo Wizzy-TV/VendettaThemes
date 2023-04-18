@@ -26,3 +26,14 @@ https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/AmoledOrangeMount
 ### Preview:
 ![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/AmoledOrangeMountains/screenshot.png)
 
+## Vulcan
+Raw link:
+https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/Vulcan/vulcan.json
+
+### Preview:
+Dark:
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/Vulcan/screenshot-dark.png)
+Light:
+![](https://github.com/Wizzy-TV/VendettaThemes/blob/main/Vulcan/screenshot-light.png)
+
+
