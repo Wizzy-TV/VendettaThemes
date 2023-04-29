@@ -36,4 +36,12 @@ Dark:
 Light:
 ![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/Vulcan/screenshot-light.png)
 
+## Purple Mountains
+Raw link:
+https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PurpleMountains/purple-mountains.json
+
+### Preview:
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PurpleMountains/screenshot.png)
+
+
 
