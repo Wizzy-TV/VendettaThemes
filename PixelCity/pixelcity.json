@@ -36,46 +36,46 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_ACCENT": [
             "#44ddd5"
         ],
         "BACKGROUND_FLOATING": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e644ddd5"
+            "#4D44ddd5"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#0c2b4d"
+            "#081924"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#44ddd5"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0c2b4d"
+            "#081924"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#0c2b4d"
+            "#081924"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -84,7 +84,7 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#0c2b4d"
+            "#081924"
         ],
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
@@ -102,11 +102,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#44ddd5",
         "PRIMARY_500": "#44ddd5",
-        "PRIMARY_600": "#0c2b4d",
-        "PRIMARY_630": "#0c2b4d",
-        "PRIMARY_660": "#0c2b4d",
-        "PRIMARY_700": "#0c2b4d",
-        "PRIMARY_800": "#0c2b4d",
+        "PRIMARY_600": "#081924",
+        "PRIMARY_630": "#081924",
+        "PRIMARY_660": "#081924",
+        "PRIMARY_700": "#081924",
+        "PRIMARY_800": "#081924",
         "BRAND_260": "#44ddd5",
         "BRAND_360": "#44ddd5",
         "BRAND_500": "#44ddd5",
@@ -124,7 +124,7 @@
     "background": {
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
         "alpha": 0.5,
-        "color": "#0c2b4d"
+        "color": "#081924"
     }
 }
 
