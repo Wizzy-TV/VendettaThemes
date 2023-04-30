@@ -43,5 +43,11 @@ https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PurpleMountains/p
 ### Preview:
 ![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PurpleMountains/screenshot.png)
 
+## Pixel City
+Raw link:
+https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/pixelcity.json
+
+### Preview:
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/screenshot.png)
 
 
