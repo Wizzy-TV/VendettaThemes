@@ -48,6 +48,6 @@ Raw link:
 https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/pixelcity.json
 
 ### Preview:
-![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/screenshot.png)
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/screenshot.jpg)
 
 
