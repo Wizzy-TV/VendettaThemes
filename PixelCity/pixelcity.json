@@ -12,19 +12,19 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#44ddd5"
+            "#126165"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#44ddd5"
+            "#126165"
         ],
         "TEXT_LINK": [
-            "#44ddd5"
+            "#126165"
         ],
         "TEXT_DANGER": [
-            "#44ddd5"
+            "#126165"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -48,7 +48,7 @@
             "#081924"
         ],
         "BACKGROUND_ACCENT": [
-            "#44ddd5"
+            "#126165"
         ],
         "BACKGROUND_FLOATING": [
             "#081924"
@@ -63,13 +63,13 @@
             "#081924"
         ],
         "BACKGROUND_MENTIONED": [
-            "#0D44ddd5"
+            "#0D126165"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#081924"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#44ddd5"
+            "#126165"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#081924"
@@ -90,7 +90,7 @@
             "#c4c4c4"
         ],
         "TEXT_LINK": [
-            "#44ddd5"
+            "#126165"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
@@ -100,25 +100,25 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#44ddd5",
-        "PRIMARY_500": "#44ddd5",
+        "PRIMARY_360": "#126165",
+        "PRIMARY_500": "#126165",
         "PRIMARY_600": "#081924",
         "PRIMARY_630": "#081924",
         "PRIMARY_660": "#081924",
         "PRIMARY_700": "#081924",
         "PRIMARY_800": "#081924",
-        "BRAND_260": "#44ddd5",
-        "BRAND_360": "#44ddd5",
-        "BRAND_500": "#44ddd5",
+        "BRAND_260": "#126165",
+        "BRAND_360": "#126165",
+        "BRAND_500": "#126165",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#44ddd5",
-        "YELLOW_300": "#44ddd5",
-        "ORANGE_345": "#44ddd5",
-        "GREEN_345": "#44ddd5",
-        "GREEN_360": "#44ddd5",
-        "RED_560" : "#44ddd5",
-        "RED_400": "#44ddd5"
+        "BLUE_345": "#126165",
+        "YELLOW_300": "#126165",
+        "ORANGE_345": "#126165",
+        "GREEN_345": "#126165",
+        "GREEN_360": "#126165",
+        "RED_560" : "#126165",
+        "RED_400": "#126165"
     },
     "spec": 2,
     "background": {
