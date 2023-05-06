@@ -50,4 +50,10 @@ https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/pixelci
 ### Preview:
 ![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/screenshot.jpg)
 
+## Pixel City Lite
+Raw link:
+https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCityLite/pixelcity-lite.json
+
+### Preview:
+![](https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCityLite/screenshot.png)
 
