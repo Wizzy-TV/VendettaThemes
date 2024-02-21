@@ -1,3 +1,5 @@
+#End of Support!
+
 # Themes what i made for Discord's mobile modification called Vendetta.
 Vendetta.
 You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) installed on your device to get the themes work.
