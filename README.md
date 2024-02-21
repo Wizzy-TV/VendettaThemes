@@ -1,4 +1,4 @@
-# End of Support!
+# Thats project is no longer supported!
 
 # Themes what i made for Discord's mobile modification called Vendetta.
 Vendetta.
