@@ -1,0 +1,139 @@
+{
+    "name": "Blood Omen Plus",
+    "description": "made by jeebilus for jeebilus",
+    "authors": [
+        {
+            "name": "Blood Omen",
+            "id": "2222222222222222222"          
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#d5d3d2"
+        ],
+        "HEADER_SECONDARY": [
+            "#d5d3d2"
+        ],
+        "TEXT_NORMAL": [
+            "#d4d0cf"
+        ],
+        "TEXT_MUTED": [
+            "#9b3737"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#d5d3d2"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#581919"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#d5d3d2"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#983939"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#110D0A"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#15100d"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#110D0A"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#581919"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#15100d"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#300909"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#300909"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#480d0d"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3b1a1a"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "581919"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#df3535"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#df3535"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#441f1f"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#842a2a"
+        ],
+        "TEXT_LINK": [
+            "#842a2a"
+        ],
+        "TEXT_DANGER": [
+            "#581919"
+        ],
+        "KEYBOARD": [
+            "#110D0A"
+        ],
+        "CHANNEL_ICON": [
+            "#d5d3d2"
+        ],
+        "CHAT_BACKGROUND": [
+            "#110D0A"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#842a2a",
+        "PRIMARY_100": "#d5d3d2",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#842a2a",
+        "PRIMARY_360": "#842a2a",
+        "PRIMARY_400": "#842a2a",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#983939",
+        "BRAND_360": "#D0A996",
+        "BRAND_500": "#983939",
+        "BRAND_560": "#D0A996",
+        "YELLOW_300": "#983939",
+        "GREEN_600": "#d5d3d2",
+        "DANGER": "#625682",
+        "RED_400": "#842a2a",
+        "WHITE_500": "#d5d3d2",
+        "GREEN_360": "#581919"
+    },
+   "plus":{
+   "version":"0",
+},
+    "spec": 2
+}
